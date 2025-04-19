@@ -20,12 +20,10 @@
 ---
 
 ### Contributions Graph
-![Contributions Graph](https://github.com/irfanmkh/irfanmkh/blob/output/github-contribution-grid-snake.svg)
+![Contributions Graph](https://github.com/irfanmkh/irfanmkh/blob/main/output/github-contribution-grid-snake.svg)
+
 
 ---
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfanmkh&count_private=true&hide_title=true)
 
 
 ---
