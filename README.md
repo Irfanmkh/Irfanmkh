@@ -24,8 +24,9 @@
 
 ---
 
-### Wakatime Badge
-![Wakatime](https://wakatime.com/badge/user/yourusername.svg)
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfanmkh&count_private=true&hide_title=true)
+
 
 ---
 
