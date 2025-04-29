@@ -1,19 +1,12 @@
-# Hi, I'm Irfan Maulana Khakiki 🙌
 
 <h1 align="center">
-  🌸 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓡𝓮𝓹𝓸 🌸
+  🌸 𝓘𝓻𝓯𝓪𝓷 𝓜𝓪𝓾𝓵𝓪𝓷𝓪 𝓚𝓱𝓪𝓴𝓲𝓴𝓲 🌸
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hi+There!+👋;Welcome+to+my+GitHub+Repository!;Enjoy+exploring+my+code+😊" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Livewire-4B3263?style=flat-square&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
 ---
 
 ### GitHub Streak
@@ -36,7 +29,42 @@
 
 
 ---
+## 📊 GitHub Insights
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irfanmkh&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanmkh&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanmkh&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🐍 3D Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/irfanmkh/irfanmkh/raw/output/github-contribution-grid-snake.svg" alt="3D Snake" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ---
 
