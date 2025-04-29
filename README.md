@@ -10,7 +10,7 @@
 ---
 
 ### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irfanmkh)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irfanmkh&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -30,14 +30,22 @@
 
 ---
 ## 📊 GitHub Insights
+<div align="center">
 
-<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=irfanmkh&theme=synthwave&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+  <br/><br/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=irfanmkh&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p>
 
-<p align="center">
- <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=irfanmkh&theme=synthwave&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanmkh&theme=react-dark" alt="Contribution Graph" />
+
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanmkh&theme=react-dark" alt="Contribution Graph" />
