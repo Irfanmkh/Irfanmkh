@@ -36,41 +36,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanmkh&theme=tokyonight" alt="GitHub Streak" />
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irfanmkh&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanmkh&theme=react-dark" alt="Contribution Graph" />
 </p>
 
----
-
-## 🐍 3D Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/irfanmkh/irfanmkh/raw/output/github-contribution-grid-snake.svg" alt="3D Snake" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
----
-
-### Social Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/irfanmkh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/irfanmkh)
 
 ---
 
