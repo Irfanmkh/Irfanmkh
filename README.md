@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irfanmkh&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=irfanmkh&theme=synthwave&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
