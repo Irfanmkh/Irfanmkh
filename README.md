@@ -1,7 +1,19 @@
 # Hi, I'm Irfan Maulana Khakiki 🙌
 
-### ~ Welcome to my profile ~
+<h1 align="center">
+  🌸 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓡𝓮𝓹𝓸 🌸
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hi+There!+👋;Welcome+to+my+GitHub+Repository!;Enjoy+exploring+my+code+😊" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Livewire-4B3263?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 ---
 
 ### GitHub Streak
