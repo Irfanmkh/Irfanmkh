@@ -11,21 +11,16 @@
 ## 📊 GitHub Insights
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=irfanmkh&show_icons=true&locale=en&layout=compact)
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanmkh&theme=react-dark" alt="Contribution Graph" />
 <br/><br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=irfanmkh&show_icons=true&theme=dracula" alt="GitHub Stats" />
 
   <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanmkh&theme=react-dark" alt="Contribution Graph" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=irfanmkh&show_icons=true&locale=en&layout=compact)
+ 
 
 </div>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanmkh&theme=react-dark" alt="Contribution Graph" />
-</p>
 
 
 ---
