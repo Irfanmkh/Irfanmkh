@@ -8,35 +8,11 @@
 </p>
 
 ---
-
-### GitHub Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irfanmkh&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
-
----
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=irfanmkh&show_icons=true&locale=en&layout=compact)
-
----
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfanmkh&show_icons=true)
-
----
-
-### Contributions Graph
-![Contributions Graph](https://github.com/irfanmkh/irfanmkh/blob/main/output/github-contribution-grid-snake.svg)
-
-
----
 ## 📊 GitHub Insights
 <div align="center">
 
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=irfanmkh&theme=synthwave&hide_border=true" alt="GitHub Streak" />
-  </a>
-
-  <br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=irfanmkh&show_icons=true&locale=en&layout=compact)
+<br/><br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=irfanmkh&show_icons=true&theme=dracula" alt="GitHub Stats" />
 
