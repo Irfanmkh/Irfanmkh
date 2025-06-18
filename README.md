@@ -19,25 +19,27 @@
   <br/><br/>
 
   <!-- GitHub Trophies -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=irfanmkh&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" 
-    alt="GitHub Trophies" 
-    width="100%" 
-  />
+  <div style="display: flex; justify-content: center;">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=irfanmkh&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" 
+      alt="GitHub Trophies" 
+    />
+  </div>
   <br/><br/>
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=irfanmkh&show_icons=true&theme=dracula" 
-    alt="GitHub Stats" 
-  />
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanmkh&show_icons=true&locale=en&layout=compact" 
-    alt="Top Languages" 
-  />
+  <!-- Stats & Top Languages Side by Side -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=irfanmkh&show_icons=true&theme=dracula" 
+      alt="GitHub Stats" 
+      width="400"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanmkh&show_icons=true&locale=en&layout=compact" 
+      alt="Top Languages" 
+      width="400"
+    />
+  </div>
 
 </div>
 
