@@ -10,36 +10,28 @@
 ---
 <div align="center">
 
-  <!-- Contribution Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=irfanmkh&theme=react-dark" 
-    alt="Contribution Graph" 
-    width="100%" 
-  />
-  <br/><br/>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanmkh&theme=react-dark" alt="Contribution Graph" />
+<br/><br/>
 
-  <!-- GitHub Trophies -->
-  <div style="display: flex; justify-content: center;">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=irfanmkh&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" 
-      alt="GitHub Trophies" 
-    />
-  </div>
-  <br/><br/>
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=irfanmkh&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+<br/><br/>
 
-  <!-- Stats & Top Languages Side by Side -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=irfanmkh&show_icons=true&theme=dracula" 
-      alt="GitHub Stats" 
-      width="400"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanmkh&show_icons=true&locale=en&layout=compact" 
-      alt="Top Languages" 
-      width="400"
-    />
-  </div>
+<!-- GitHub Stats and Top Languages -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=irfanmkh&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanmkh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 </div>
 
