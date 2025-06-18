@@ -17,13 +17,13 @@
 </div>
 
 <!-- GitHub Trophies (benar-benar rata tengah) -->
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=irfanmkh&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</p>
 <br/><br/>
+</div>
 
 <!-- GitHub Stats and Top Languages (berdampingan, tanpa border) -->
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td>
@@ -34,11 +34,9 @@
       </td>
     </tr>
   </table>
-</p>
-
-
-
 </div>
+
+
 
 
 
