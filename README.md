@@ -14,7 +14,7 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanmkh&theme=react-dark" alt="Contribution Graph" />
 <br/><br/>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaMLiM&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=irfanmkh&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 <br/><br/>
 
