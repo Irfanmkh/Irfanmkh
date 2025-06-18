@@ -22,6 +22,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NaMLiM&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
 
 ---
 
