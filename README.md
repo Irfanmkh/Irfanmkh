@@ -11,7 +11,7 @@
 <div align="center">
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanmkh&theme=react-dark" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfanmkh&theme=react-dark" alt="Contribution Graph" />
 <br/><br/>
 
 </div>
