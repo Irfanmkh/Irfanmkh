@@ -27,10 +27,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=irfanmkh&show_icons=true&theme=dracula" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Irfanmkh&show_icons=true&theme=dracula" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanmkh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Irfanmkh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
       </td>
     </tr>
   </table>
