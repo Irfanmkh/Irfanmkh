@@ -50,6 +50,6 @@ Passionate **Software Developer** with expertise in building scalable web applic
 
 **Connect**
 
-* **Portfolio:** [Portfolio](https://www.imaka.my.id)
+* **Portfolio:** [imaka.my.id](https://www.imaka.my.id)
 * **LinkedIn:** [linkedin.com/in/irfan-maulana-khakiki-b60109220](https://www.linkedin.com/in/irfan-maulana-khakiki-b60109220)
 * **Email:** irfankhakiki17@gmail.com
