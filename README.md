@@ -15,15 +15,13 @@ Software developer focused on full-stack web development, e-commerce and web ope
 **GitHub Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Irfanmkh&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Irfanmkh&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://metrics.lecoq.io/Irfanmkh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.limit=8" alt="Metrics" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irfanmkh&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Irfanmkh&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfanmkh&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
