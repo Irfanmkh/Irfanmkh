@@ -18,7 +18,7 @@
 Passionate **Software Developer** with expertise in building scalable web applications, optimizing multi-channel e-commerce operations, and crafting efficient data automation workflows.
 
 *  **Full-Stack Web Development**     – Building seamless back-end systems & modern admin dashboards.
-*  **E-Commerce & Web Operations**     – Managing platforms, optimizing product data, and scaling workflows.
+*  **Shopify & Marketplace Operations | Data Automation | Web Developer (Laravel)**     – Managing platforms, optimizing product data, and scaling workflows.
 *  **Data Automation & Integration**   – Streamlining business operations through automated scripts and tools.
 
 ---
