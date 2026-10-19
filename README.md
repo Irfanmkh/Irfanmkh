@@ -2,7 +2,7 @@
 
 # Hi, I'm **Irfan Maulana Khakiki**
 
-### Full-Stack Web Developer | E-Commerce & Web Operations | Data Automation
+### Shopify & Marketplace Operations | Data Automation | Web Developer (Laravel) 
 
   <a href="https://www.imaka.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Irfan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Irfan" />
